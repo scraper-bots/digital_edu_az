@@ -1,5 +1,0 @@
-DB_USER=uktdsojj
-DB_PASSWORD=bzh-xoqMZlgM5RbXvg2OmGvSHEWDXhJi
-DB_HOST=manny.db.elephantsql.com
-DB_NAME=uktdsojj
-DB_PORT=5432
