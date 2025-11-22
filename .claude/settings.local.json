@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python analyze_schools.py:*)",
+      "Bash(pip install:*)",
+      "Bash(dir:*)",
+      "Bash(python:*)",
+      "Bash(copy chartsREADME.md README.md)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
